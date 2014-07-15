@@ -1,7 +1,7 @@
-hydrodata
+hydromet
 =========
 
-One stop shop for hydrologic data in R. Hydrologic data means any data involved in the water cycle so can include but is not limited to:
+One stop shop for hydrology and meteorology data in R. Data may include but are not limited to:
 
 - Streamflow (natural and regulated)
 - Precipitation (including snow)
@@ -13,7 +13,7 @@ One stop shop for hydrologic data in R. Hydrologic data means any data involved 
 - Basin Delineations
 - Groundwater
 
-This package aims to provide a unified interface for grabbing hydrologic data from the web. It solves the problem of data transmission and formatting but leaves the analysis, processing, and quality control to you. It is very similar in spirit to the Python package [ulmo](http://ulmo.readthedocs.org/en/latest/) but does things in an R-centric way. 
+This package aims to provide a unified interface for grabbing hydrology and climate data from the web. It solves the problem of data transmission and formatting but leaves the analysis, processing, and quality control to you. It is very similar in spirit to the Python package [ulmo](http://ulmo.readthedocs.org/en/latest/) but does things in an R-centric way. 
 
 My wishlist at the moment is:
 
